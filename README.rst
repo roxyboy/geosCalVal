@@ -25,6 +25,6 @@ Get in touch
 .. _on GitHub: https://github.com/roxyboy/geosCalVal/issues
 
 
-.. |DOI| image:: https://zenodo.org/badge/DOI/10.5281/zenodo..svg
-      :target: https://doi.org/10.5281/zenodo.
+.. |DOI| image:: https://zenodo.org/badge/DOI/10.5281/zenodo.1098157337.svg
+      :target: https://doi.org/10.5281/zenodo.20641947
 
