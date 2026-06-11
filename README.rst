@@ -4,7 +4,7 @@ geosCalVal: Jupyter repository for DMD analysis of SWOT Cal/Val
 |DOI|
 
 A Python script repository for Dynamic-Mode Decomposition (DMD)-based extraction of the
-geostrophic component of sea-surface anomaly from the SWOT fast-sampling phase.
+geostrophic component of sea-surface height anomaly from the SWOT fast-sampling phase.
 
 We distribute the geostrophic data product as a public good via Zenodo_.
 
