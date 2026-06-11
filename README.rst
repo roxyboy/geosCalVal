@@ -10,9 +10,9 @@ We distribute the geostrophic data product as a public good via Zenodo_.
 
 Our analyses heavily rely on the PyDMD_ package and results are published in:
 
-- Uchida et al. (2026). `A strictly geostrophic product of sea-surface velocities from the SWOT fast-sampling phase<https://doi.org/10.1029/2026GL121978>`.
+- Uchida et al. (2026). `A strictly geostrophic product of sea-surface velocities from the SWOT fast-sampling phase<https://doi.org/10.1029/2026GL121978>`_;
 
-- Uchida et al. (2025). `Dynamic mode decomposition of geostrophically balanced motions from SWOT Cal/Val in the separated Gulf Stream <https://doi.org/10.1029/2024EA004079>`
+- Uchida et al. (2025). `Dynamic mode decomposition of geostrophically balanced motions from SWOT Cal/Val in the separated Gulf Stream <https://doi.org/10.1029/2024EA004079>_`.
 
 .. _Zenodo: https://doi.org/10.5281/zenodo.20098317
 .. _PyDMD: https://pydmd.github.io/PyDMD/
